@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="study_date_time_facility_local_time" label="STUDY DATE/TIME (Facility Local Time)&#9;&#9;&#9;" language="en" table="x_464560_telehealt_telehealth_parent">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>study_date_time_facility_local_time</element>
+            <help/>
+            <hint/>
+            <label>STUDY DATE/TIME (Facility Local Time)			</label>
+            <language>en</language>
+            <name>x_464560_telehealt_telehealth_parent</name>
+            <plural>STUDY DATE/TIME (Facility Local Time)			s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-09 17:32:32</sys_created_on>
+            <sys_id>05de55482f23001020ff578b2799b614</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>STUDY DATE/TIME (Facility Local Time)</sys_name>
+            <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+            <sys_update_name>sys_documentation_x_464560_telehealt_telehealth_parent_study_date_time_facility_local_time_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-09 17:32:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

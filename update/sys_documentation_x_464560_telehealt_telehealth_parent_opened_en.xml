@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="opened" label="OPENED" language="en" table="x_464560_telehealt_telehealth_parent">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>opened</element>
+            <help/>
+            <hint/>
+            <label>OPENED</label>
+            <language>en</language>
+            <name>x_464560_telehealt_telehealth_parent</name>
+            <plural>OPENEDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-06 21:34:43</sys_created_on>
+            <sys_id>a77932c32f17001020ff578b2799b62d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>OPENED</sys_name>
+            <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+            <sys_update_name>sys_documentation_x_464560_telehealt_telehealth_parent_opened_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-06 21:34:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

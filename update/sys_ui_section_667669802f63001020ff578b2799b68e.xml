@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="TeleStroke Issue Log" section_id="667669802f63001020ff578b2799b68e" sys_domain="global" table="x_464560_telehealt_telehealth_parent" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-09 18:05:58</sys_created_on>
+            <sys_id>7e7669802f63001020ff578b2799b6ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TeleStroke Issue Log" display_value="TeleStroke Issue Log" name="x_464560_telehealt_telehealth_parent" sys_domain="global" view="Default view">667669802f63001020ff578b2799b68e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-09 18:05:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>TeleStroke Issue Log</caption>
+            <header>false</header>
+            <name>x_464560_telehealt_telehealth_parent</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-09 18:05:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>667669802f63001020ff578b2799b68e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TeleStroke Issue Log</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+            <sys_update_name>sys_ui_section_667669802f63001020ff578b2799b68e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-09 18:05:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

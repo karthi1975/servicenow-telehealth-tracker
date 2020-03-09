@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="ct_image_received" table="x_464560_telehealt_telehealth_parent" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ct_image_received</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- New choice --</label>
+            <language>en</language>
+            <name>x_464560_telehealt_telehealth_parent</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-09 17:28:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>010e9dc42f23001020ff578b2799b605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-09 17:28:59</sys_updated_on>
+            <value>-- New choice --</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ct_image_received</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_464560_telehealt_telehealth_parent</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-09 17:29:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>822e95082f23001020ff578b2799b677</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-09 17:29:41</sys_updated_on>
+            <value>No</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ct_image_received</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_464560_telehealt_telehealth_parent</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-09 17:29:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f20e95082f23001020ff578b2799b66e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-09 17:29:16</sys_updated_on>
+            <value>Yes</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>ct_image_received</element>
+            <name>x_464560_telehealt_telehealth_parent</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-09 17:28:59</sys_created_on>
+            <sys_id>890e9dc42f23001020ff578b2799b605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ct_image_received</sys_name>
+            <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+            <sys_update_name>sys_choice_x_464560_telehealt_telehealth_parent_ct_image_received</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-09 17:28:59</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

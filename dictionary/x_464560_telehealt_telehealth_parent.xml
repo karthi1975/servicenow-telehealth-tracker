@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="telehealth_parent" max_length="40" name="x_464560_telehealt_telehealth_parent" type="collection">
+        <element label="CT ACCESSION NUMBER" max_length="100" name="accession_number" type="string"/>
+        <element label="AFFILIATE MRN&#9;" max_length="100" name="affiliate_mrn" type="string"/>
+        <element label="ATTENDING TO CAMERA DELAY&#9;&#9;" max_length="100" name="attending_to_camera_delay" type="string"/>
+        <element label="CALLER NAME" max_length="100" name="caller_name" type="string"/>
+        <element label="CALLER PHONE NUMBER" max_length="40" name="caller_phone_number" type="phone_number_e164"/>
+        <element label="CALL TO CAMERA&#9;" max_length="100" name="call_to_camera" type="string"/>
+        <element label="CLOSED" max_length="100" name="closed" type="glide_date_time"/>
+        <element label="CLOSED BY" max_length="100" name="closed_by" type="string"/>
+        <element label="CONSULT DURATION&#9;" max_length="200" name="consult_duration" type="string"/>
+        <element choice="1" label="CONSULT ON CAMERA? " max_length="40" name="consult_on_camera" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element choice="1" label="CONSULT SUCCESSFUL?" max_length="40" name="consult_successful" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="CONSULT TIME ENDED&#9;&#9;" max_length="40" name="consult_time_ended" type="glide_time"/>
+        <element label="CT ANGIO ACCESSION" max_length="100" name="ct_angio_accession" type="string"/>
+        <element label="CT ANGIO EXCEPTION/RECEIVED DATE/TIME" max_length="40" name="ct_angio_exception_received_date_time" type="glide_date_time"/>
+        <element choice="1" label="CT ANGIO IMAGES RECEIVED? " max_length="40" name="ct_angio_images_received" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="CT ANGIO STUDY DATE/TIME (Facility Local Time)" max_length="40" name="ct_angio_study_date_time_facility_local_time" type="glide_date_time"/>
+        <element choice="1" label="CT IMAGE RECEIVED? " max_length="40" name="ct_image_received" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="EXCEPTION/RECEIVED DATE/TIME" max_length="40" name="exception_received_date_time" type="glide_date_time"/>
+        <element label="FELLOW TO CAMERA DELAY&#9;&#9;" max_length="100" name="fellow_to_camera_delay" type="string"/>
+        <element choice="1" label="IMAGES RECEIVED" max_length="40" name="images_received" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="INITIAL PAGE DATE/TIME" max_length="40" name="initial_page_date_time" type="glide_date_time"/>
+        <element label="LAST KNOWN WELL&#9;&#9;" max_length="500" name="last_known_well" type="string"/>
+        <element label="LINKED INCIDENT" max_length="100" name="linked_incident" type="string"/>
+        <element label="LOCATION" max_length="100" name="location" type="string"/>
+        <element label="MRN" max_length="100" name="mrn" type="string"/>
+        <element label="OPENED" max_length="40" name="opened" type="glide_date_time"/>
+        <element label="OPENED BY" max_length="100" name="opened_by" type="string"/>
+        <element label="PATIENT DOB" max_length="40" name="patient_dob" type="glide_date"/>
+        <element label="PATIENT NAME" max_length="100" name="patient_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="RECORD NUMBER" max_length="40" name="record_number" type="string"/>
+        <element choice="3" default="OPEN" label="RECORD STATE" max_length="40" name="record_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CLOSED" value="CLOSED"/>
+                <element inactive_on_update="false" label="OPEN" value="OPEN"/>
+            </choice>
+        </element>
+        <element choice="3" default="Guardian Angel" label="RECORD TYPE" max_length="40" name="record_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+            </choice>
+        </element>
+        <element label="REFERRING PROVIDER" max_length="100" name="referring_provider" type="string"/>
+        <element label="RESOLUTION" max_length="500" name="resolution" type="string"/>
+        <element label="RESPONSIBILITY" max_length="500" name="responsibility" type="string"/>
+        <element label="SITE DATE/TIME JOINED" max_length="40" name="site_date_time_joined" type="glide_date_time"/>
+        <element label="SITE TO CAMERA DELAY&#9;&#9;" max_length="100" name="site_to_camera_delay" type="string"/>
+        <element label="STUDY DATE/TIME (Facility Local Time)&#9;&#9;&#9;" max_length="40" name="study_date_time_facility_local_time" type="glide_date_time"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="TECHNICAL CAUSE" max_length="500" name="technical_cause" type="string"/>
+        <element label="TECHNICAL RESULT" max_length="500" name="technical_result" type="string"/>
+        <element label="TECHNICAL SYMPTOMS&#9;&#9;" max_length="250" name="technical_symptoms" type="string"/>
+        <element choice="3" label="TELEHEALTH PROGRAM" max_length="50" name="telehealth_program" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Radiology" sequence="0" value="radiology"/>
+                <element inactive_on_update="false" label="TeleStroke" sequence="1" value="telestroke"/>
+                <element inactive_on_update="false" label="TeleCrisis" sequence="2" value="telecrisis"/>
+                <element inactive_on_update="false" label="TeleNeurology" sequence="3" value="teleneurology"/>
+            </choice>
+        </element>
+        <element choice="1" label="TRAINING OPPORTUNITY?" max_length="40" name="training_opportunity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element choice="1" label="TYPE OF EQUIPMENT (DROPDOWN LIST)&#9;&#9;&#9;" max_length="40" name="type_of_equipment_dropdown_list" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+                <element inactive_on_update="false" label="INNOVATE CART" value="innovate_cart"/>
+                <element inactive_on_update="false" label="INTOUCH" value="INTOUCH"/>
+            </choice>
+        </element>
+        <element label="UUH ATTENDING" max_length="100" name="uuh_attending" type="string"/>
+        <element label="UUH ATTENDING DATE/TIME JOINED&#9;&#9;&#9;" max_length="40" name="uuh_attending_date_time_joined" type="glide_date_time"/>
+        <element label="UUH ENCOUNTER NUMBER" max_length="100" name="uuh_encounter_number" type="string"/>
+        <element label="UUH FELLOW" max_length="100" name="uuh_fellow" type="string"/>
+        <element label="UUH FELLOW DATE/TIME JOINED&#9;&#9;&#9;" max_length="40" name="uuh_fellow_date_time_joined" type="glide_date_time"/>
+        <element label="UUH MRN" max_length="100" name="uuh_mrn" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>affiliate_mrn</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-09 19:28:32</sys_created_on>
+        <sys_id>8c397dc02fa3001020ff578b2799b6d2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>affiliate_mrn</sys_name>
+        <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_8c397dc02fa3001020ff578b2799b6d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-09 19:28:51</sys_updated_on>
+        <table>x_464560_telehealt_telehealth_parent</table>
+        <ui_policy display_value="Show  Type of Images">9df8b1c02fa3001020ff578b2799b677</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</application>
+        <file_path/>
+        <instance_id>45ffa645db91fb048aea21c405961909</instance_id>
+        <instance_name>dev85607</instance_name>
+        <name>sys_ui_policy_action_8c397dc02fa3001020ff578b2799b6d2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>affiliate_mrn</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-09 19:28:32</sys_created_on><sys_id>8c397dc02fa3001020ff578b2799b6d2</sys_id><sys_mod_count>1</sys_mod_count><sys_name>affiliate_mrn</sys_name><sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package><sys_policy/><sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope><sys_update_name>sys_ui_policy_action_8c397dc02fa3001020ff578b2799b6d2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-09 19:28:51</sys_updated_on><table>x_464560_telehealt_telehealth_parent</table><ui_policy display_value="Show  Type of Images">9df8b1c02fa3001020ff578b2799b677</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>622115534</payload_hash>
+        <record_name>affiliate_mrn</record_name>
+        <reverted_from/>
+        <source>b2d03e8b2fd3001020ff578b2799b61d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-09 19:28:51</sys_created_on>
+        <sys_id>8579b5c02fa3001020ff578b2799b647</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170c0c5790a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-09 19:28:51</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>0179b5c003a30010e044e8159d686447</update_guid>
+        <update_guid_history>0179b5c003a30010e044e8159d686447:622115534,d0697dc04ea30010031c2c35a50c570a:581157450</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-09 20:21:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>02e67be3f35a4fc88326430b1edf8a40</sys_id>
+        <sys_metadata>8c397dc02fa3001020ff578b2799b6d2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>affiliate_mrn</sys_name>
+        <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+        <sys_parent display_value="CT CHOICES">9df8b1c02fa3001020ff578b2799b677</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+        <sys_scope_delete display_value="">0d83a94c21d141f285eb7a78ec7f6b09</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_8c397dc02fa3001020ff578b2799b6d2</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_8c397dc02fa3001020ff578b2799b6d2">8579b5c02fa3001020ff578b2799b647</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-09 20:21:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

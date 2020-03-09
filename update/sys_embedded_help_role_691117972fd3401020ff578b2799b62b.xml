@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_464560_telehealt.telehealth_radiology_user" name="x_464560_telehealt.telehealth_radiology_user">65115b932fd3401020ff578b2799b62d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-07 17:56:17</sys_created_on>
+        <sys_id>691117972fd3401020ff578b2799b62b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>65115b932fd3401020ff578b2799b62d</sys_name>
+        <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_691117972fd3401020ff578b2799b62b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-07 17:56:17</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

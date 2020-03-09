@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>To Show only selected section</description>
+        <field>telehealth_program</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>TeleHealth Type</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+
+   //Type appropriate comment here, and begin script below
+// 	if(newValue == 'radiology'){
+// 			g_form.addOption('u_what_needed','hr1','Human Resources 1');
+			
+// 		}
+	jslog("newValue : "+newValue);
+	var sections = g_form.getSections();
+
+	
+	if (newValue == 'radiology') {
+		g_form.setSectionDisplay('radiology', true);
+		g_form.setSectionDisplay('telestroke', false);
+	    g_form.setSectionDisplay('telestroke_image', false);
+	    g_form.setSectionDisplay('telestroke_technology', false);
+	    g_form.setSectionDisplay('telestroke_responsetimelogs', false);
+	    g_form.setSectionDisplay('telestroke_techresults', false);
+	    g_form.setSectionDisplay('telestroke_issuelog', false);
+	} else if(newValue == 'telestroke'){
+		g_form.setSectionDisplay('radiology', false);
+        g_form.setSectionDisplay('telestroke', true);
+	    g_form.setSectionDisplay('telestroke_image', true);
+	    g_form.setSectionDisplay('telestroke_technology', true);
+	    g_form.setSectionDisplay('telestroke_responsetimelogs', true);
+	    g_form.setSectionDisplay('telestroke_techresults', true);
+	    g_form.setSectionDisplay('telestroke_issuelog', true);
+	}
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-07 21:45:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>734e7f132f97401020ff578b2799b664</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>TeleHealth Type</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+        <sys_update_name>sys_script_client_734e7f132f97401020ff578b2799b664</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-09 20:34:23</sys_updated_on>
+        <table>x_464560_telehealt_telehealth_parent</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

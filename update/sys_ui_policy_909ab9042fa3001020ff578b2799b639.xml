@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_464560_telehealt_telehealth_parent">ct_angio_images_received=Yes^EQ<item display_value="Yes" endquery="false" field="ct_angio_images_received" goto="false" newquery="false" operator="=" or="false" value="Yes"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+  g_form.showFieldMsg('ct_angio_images_received','ct angio images option selected ','info');
+}]]></script_true>
+        <set_values/>
+        <short_description>CT ANGIO CHOICES</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-09 19:34:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>909ab9042fa3001020ff578b2799b639</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CT ANGIO CHOICES</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+        <sys_update_name>sys_ui_policy_909ab9042fa3001020ff578b2799b639</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-09 20:11:08</sys_updated_on>
+        <table>x_464560_telehealt_telehealth_parent</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

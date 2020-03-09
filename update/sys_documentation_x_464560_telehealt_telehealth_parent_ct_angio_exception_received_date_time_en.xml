@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ct_angio_exception_received_date_time" label="CT ANGIO EXCEPTION/RECEIVED DATE/TIME" language="en" table="x_464560_telehealt_telehealth_parent">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ct_angio_exception_received_date_time</element>
+            <help/>
+            <hint/>
+            <label>CT ANGIO EXCEPTION/RECEIVED DATE/TIME</label>
+            <language>en</language>
+            <name>x_464560_telehealt_telehealth_parent</name>
+            <plural>CT ANGIO EXCEPTION/RECEIVED DATE/TIMEs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-09 17:38:15</sys_created_on>
+            <sys_id>7420ed882f23001020ff578b2799b6f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CT ANGIO EXCEPTION/RECEIVED DATE/TIME</sys_name>
+            <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+            <sys_update_name>sys_documentation_x_464560_telehealt_telehealth_parent_ct_angio_exception_received_date_time_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-09 17:38:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

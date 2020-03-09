@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_464560_telehealt_telehealth_radiology</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-07 20:21:40</sys_created_on>
+        <sys_id>cf52bf172f57401020ff578b2799b690</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_464560_telehealt_telehealth_radiology</sys_name>
+        <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+        <sys_update_name>ua_table_licensing_config_cf52bf172f57401020ff578b2799b690</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-07 20:21:40</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</application>
+        <file_path/>
+        <instance_id>45ffa645db91fb048aea21c405961909</instance_id>
+        <instance_name>dev85607</instance_name>
+        <name>ua_table_licensing_config_cf52bf172f57401020ff578b2799b690</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_464560_telehealt_telehealth_radiology</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:21:40</sys_created_on><sys_id>cf52bf172f57401020ff578b2799b690</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_464560_telehealt_telehealth_radiology</sys_name><sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package><sys_policy/><sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope><sys_update_name>ua_table_licensing_config_cf52bf172f57401020ff578b2799b690</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:21:40</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>1508054628</payload_hash>
+        <record_name>x_464560_telehealt_telehealth_radiology</record_name>
+        <reverted_from/>
+        <source>b2d03e8b2fd3001020ff578b2799b61d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-07 20:21:40</sys_created_on>
+        <sys_id>0352bf172f57401020ff578b2799b693</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170b6a91a5e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-07 20:21:40</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>4b52bf17d357401004e1a020412efd92</update_guid>
+        <update_guid_history>4b52bf17d357401004e1a020412efd92:1508054628</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-07 20:49:48</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>3df4b11d3ca649d688de952766891751</sys_id>
+        <sys_metadata>cf52bf172f57401020ff578b2799b690</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_464560_telehealt_telehealth_radiology</sys_name>
+        <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+        <sys_scope_delete display_value="">0d83a94c21d141f285eb7a78ec7f6b09</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_cf52bf172f57401020ff578b2799b690</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_cf52bf172f57401020ff578b2799b690">0352bf172f57401020ff578b2799b693</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-07 20:49:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

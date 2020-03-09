@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="TeleHealth" section_id="f8e373972f57401020ff578b2799b608" sys_domain="global" table="x_464560_telehealt_telehealth_radiology" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>record_number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-07 20:28:20</sys_created_on>
+            <sys_id>30e37b972f57401020ff578b2799b6a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-07 20:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>record_type</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-07 20:28:20</sys_created_on>
+            <sys_id>b0e37b972f57401020ff578b2799b6a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-07 20:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-07 20:28:20</sys_created_on>
+            <sys_id>34e37b972f57401020ff578b2799b6a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-07 20:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>linked_incident</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-07 20:28:20</sys_created_on>
+            <sys_id>b4e37b972f57401020ff578b2799b6a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-07 20:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>record_state</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-07 20:28:20</sys_created_on>
+            <sys_id>38e37b972f57401020ff578b2799b6a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-07 20:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-07 20:28:20</sys_created_on>
+            <sys_id>b8e37b972f57401020ff578b2799b6a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-07 20:28:20</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>telehealth_program</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-07 20:28:20</sys_created_on>
+            <sys_id>3ce37b972f57401020ff578b2799b6a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-07 20:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-07 20:28:20</sys_created_on>
+            <sys_id>bce37b972f57401020ff578b2799b6a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-07 20:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-07 20:28:20</sys_created_on>
+            <sys_id>30e37b972f57401020ff578b2799b6a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-07 20:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-07 20:28:20</sys_created_on>
+            <sys_id>b0e37b972f57401020ff578b2799b6a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-07 20:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_by</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-07 20:28:20</sys_created_on>
+            <sys_id>34e37b972f57401020ff578b2799b6a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-07 20:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>TeleHealth</caption>
+            <header>false</header>
+            <name>x_464560_telehealt_telehealth_radiology</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-07 20:28:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f8e373972f57401020ff578b2799b608</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TeleHealth</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+            <sys_update_name>sys_ui_section_f8e373972f57401020ff578b2799b608</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-07 20:28:20</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</application>
+        <file_path/>
+        <instance_id>45ffa645db91fb048aea21c405961909</instance_id>
+        <instance_name>dev85607</instance_name>
+        <name>sys_ui_section_f8e373972f57401020ff578b2799b608</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="TeleHealth" section_id="f8e373972f57401020ff578b2799b608" sys_domain="global" table="x_464560_telehealt_telehealth_radiology" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>record_number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:28:20</sys_created_on><sys_id>30e37b972f57401020ff578b2799b6a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>record_type</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:28:20</sys_created_on><sys_id>b0e37b972f57401020ff578b2799b6a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>location</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:28:20</sys_created_on><sys_id>34e37b972f57401020ff578b2799b6a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>linked_incident</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:28:20</sys_created_on><sys_id>b4e37b972f57401020ff578b2799b6a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>record_state</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:28:20</sys_created_on><sys_id>38e37b972f57401020ff578b2799b6a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:28:20</sys_created_on><sys_id>b8e37b972f57401020ff578b2799b6a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:28:20</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>telehealth_program</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:28:20</sys_created_on><sys_id>3ce37b972f57401020ff578b2799b6a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>opened</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:28:20</sys_created_on><sys_id>bce37b972f57401020ff578b2799b6a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>opened_by</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:28:20</sys_created_on><sys_id>30e37b972f57401020ff578b2799b6a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>closed</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:28:20</sys_created_on><sys_id>b0e37b972f57401020ff578b2799b6a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>closed_by</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:28:20</sys_created_on><sys_id>34e37b972f57401020ff578b2799b6a4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="TeleHealth" display_value="TeleHealth" name="x_464560_telehealt_telehealth_radiology" sys_domain="global" view="Default view">f8e373972f57401020ff578b2799b608</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>TeleHealth</caption><header>false</header><name>x_464560_telehealt_telehealth_radiology</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:28:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f8e373972f57401020ff578b2799b608</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TeleHealth</sys_name><sys_overrides/><sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package><sys_policy/><sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope><sys_update_name>sys_ui_section_f8e373972f57401020ff578b2799b608</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:28:20</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1952915037</payload_hash>
+        <record_name>telehealth_radiology</record_name>
+        <reverted_from/>
+        <source>b2d03e8b2fd3001020ff578b2799b61d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-07 20:28:20</sys_created_on>
+        <sys_id>34e37b972f57401020ff578b2799b6a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170b6af33830000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-07 20:28:20</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>bce37b9725574010b3536d7e7c6967a5</update_guid>
+        <update_guid_history>bce37b9725574010b3536d7e7c6967a5:1952915037</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-07 20:49:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>43d0ecbaeddd45cd980a104efb167549</sys_id>
+        <sys_metadata>f8e373972f57401020ff578b2799b608</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TeleHealth</sys_name>
+        <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+        <sys_parent display_value="">55023b172f57401020ff578b2799b614</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+        <sys_scope_delete display_value="">0d83a94c21d141f285eb7a78ec7f6b09</sys_scope_delete>
+        <sys_update_name>sys_ui_section_f8e373972f57401020ff578b2799b608</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_f8e373972f57401020ff578b2799b608">34e37b972f57401020ff578b2799b6a6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-07 20:49:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

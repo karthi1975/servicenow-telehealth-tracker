@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="images_received" table="x_464560_telehealt_telehealth_radiology" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>images_received</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_464560_telehealt_telehealth_radiology</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-07 20:25:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c33ff572f57401020ff578b2799b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-07 20:25:27</sys_updated_on>
+            <value>Yes</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>images_received</element>
+            <name>x_464560_telehealt_telehealth_radiology</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-07 20:25:27</sys_created_on>
+            <sys_id>aa33fb572f57401020ff578b2799b652</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>images_received</sys_name>
+            <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+            <sys_update_name>sys_choice_x_464560_telehealt_telehealth_radiology_images_received</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-07 20:25:27</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</application>
+        <file_path/>
+        <instance_id>45ffa645db91fb048aea21c405961909</instance_id>
+        <instance_name>dev85607</instance_name>
+        <name>sys_choice_x_464560_telehealt_telehealth_radiology_images_received</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="images_received" table="x_464560_telehealt_telehealth_radiology" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>images_received</element><hint/><inactive>false</inactive><label>Yes</label><language>en</language><name>x_464560_telehealt_telehealth_radiology</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:25:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3c33ff572f57401020ff578b2799b604</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:25:27</sys_updated_on><value>Yes</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>images_received</element><name>x_464560_telehealt_telehealth_radiology</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:25:27</sys_created_on><sys_id>aa33fb572f57401020ff578b2799b652</sys_id><sys_mod_count>0</sys_mod_count><sys_name>images_received</sys_name><sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package><sys_policy/><sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope><sys_update_name>sys_choice_x_464560_telehealt_telehealth_radiology_images_received</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:25:27</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>379608999</payload_hash>
+        <record_name>x_464560_telehealt_telehealth_radiology.images_received</record_name>
+        <reverted_from/>
+        <source>b2d03e8b2fd3001020ff578b2799b61d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-07 20:49:47</sys_created_on>
+        <sys_id>cbc873db2f57401020ff578b2799b648</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170b6c2d9d20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-07 20:49:47</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>47c873db02574010e67ca8d001a0cf48</update_guid>
+        <update_guid_history>47c873db02574010e67ca8d001a0cf48:379608999,3343bb570b57401021100f6a3d283cc2:-402517335,a633fb57d857401092ca94223823c754:379608999,5f9223d7e2174010b6ce3a2850208dd7:-7898361,1f9223d7241740101642416db6c062d4:379608999,aae35b5b68d34010d68112654291d149:-402517335,f1d3d75b98d34010e15ac3fbb28b1b68:379608999</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-07 20:49:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>aa33fb572f57401020ff578b2799b652</sys_id>
+        <sys_metadata>aa33fb572f57401020ff578b2799b652</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>images_received</sys_name>
+        <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+        <sys_scope_delete display_value="">0d83a94c21d141f285eb7a78ec7f6b09</sys_scope_delete>
+        <sys_update_name>sys_choice_x_464560_telehealt_telehealth_radiology_images_received</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_464560_telehealt_telehealth_radiology_images_received">cbc873db2f57401020ff578b2799b648</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-07 20:49:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

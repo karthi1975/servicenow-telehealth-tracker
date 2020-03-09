@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>telehealth_umbrella</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_464560_telehealt_telehealth_radiology</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="telehealth_parent" name="x_464560_telehealt_telehealth_parent">4e557e8f2fd3001020ff578b2799b6bf</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-07 20:21:39</sys_created_on>
+        <sys_id>55023b172f57401020ff578b2799b614</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>telehealth_umbrella</sys_name>
+        <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+        <sys_update_name>sys_db_object_55023b172f57401020ff578b2799b614</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-07 20:47:31</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_464560_telehealt.telehealth_radiology_user" name="x_464560_telehealt.telehealth_radiology_user">65115b932fd3401020ff578b2799b62d</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</application>
+        <file_path/>
+        <instance_id>45ffa645db91fb048aea21c405961909</instance_id>
+        <instance_name>dev85607</instance_name>
+        <name>sys_db_object_55023b172f57401020ff578b2799b614</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>telehealth_umbrella</label><live_feed_enabled>false</live_feed_enabled><name>x_464560_telehealt_telehealth_radiology</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="telehealth_parent" name="x_464560_telehealt_telehealth_parent">4e557e8f2fd3001020ff578b2799b6bf</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-07 20:21:39</sys_created_on><sys_id>55023b172f57401020ff578b2799b614</sys_id><sys_mod_count>1</sys_mod_count><sys_name>telehealth_umbrella</sys_name><sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package><sys_policy/><sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope><sys_update_name>sys_db_object_55023b172f57401020ff578b2799b614</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-07 20:47:31</sys_updated_on><update_access>false</update_access><user_role display_value="x_464560_telehealt.telehealth_radiology_user" name="x_464560_telehealt.telehealth_radiology_user">65115b932fd3401020ff578b2799b62d</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1323885972</payload_hash>
+        <record_name>telehealth_umbrella</record_name>
+        <reverted_from/>
+        <source>b2d03e8b2fd3001020ff578b2799b61d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-07 20:47:31</sys_created_on>
+        <sys_id>71483b9b2f57401020ff578b2799b64a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170b6c0c3ce0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-07 20:47:31</sys_updated_on>
+        <type>Table</type>
+        <update_guid>f9483b9b0b574010dd8b60547b9d0b49</update_guid>
+        <update_guid_history>f9483b9b0b574010dd8b60547b9d0b49:-1323885972,5b52bf17125740101084a6a5778d5ba5:1318268392</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-07 20:49:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>7452609ef5b84e4cab5d4a6eb2241029</sys_id>
+        <sys_metadata>55023b172f57401020ff578b2799b614</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>telehealth_umbrella</sys_name>
+        <sys_package display_value="TeleHealth Tracker" source="x_464560_telehealt">b6d03e8b2fd3001020ff578b2799b61b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TeleHealth Tracker">b6d03e8b2fd3001020ff578b2799b61b</sys_scope>
+        <sys_scope_delete display_value="">0d83a94c21d141f285eb7a78ec7f6b09</sys_scope_delete>
+        <sys_update_name>sys_db_object_55023b172f57401020ff578b2799b614</sys_update_name>
+        <sys_update_version display_value="sys_db_object_55023b172f57401020ff578b2799b614">71483b9b2f57401020ff578b2799b64a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-07 20:49:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
